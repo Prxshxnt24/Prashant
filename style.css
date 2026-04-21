@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+
+/* class selector */
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
+.text-primary {
+  color: red;
+}
+.text-secondary {
+  color: white;
+}
+.text-tertiary {
+  color: black;
+}
+#box2 {
+    border-radius: 50%;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+}
