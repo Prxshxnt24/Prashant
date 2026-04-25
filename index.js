@@ -183,4 +183,55 @@
 // }
 
 
+// var a = 5;
+// var b = 10;
+// var c = a+b;
+// console.log(c);
+
+
+// function add(a,b){
+//     const c = a+b;
+//     return c;
+// }
+// console.log(add(5,10));
+// console.log(add(5,10));
+// console.log(add(5,10));
+// console.log(add(5,10));
+// console.log(add(5,10));
+// console.log(add(5,10));
+
+
+// function sub(c,d){
+//     const e  = c-d;
+//     return e;
+// }
+// console.log(sub(25,10));
+// console.log(sub(15,1));
+// console.log(sub(19,9));
+// console.log(sub(15,10));
+// console.log(sub(5,1));
+
+
+
+// function add(a,b){
+//     const c = a+b;
+//     console.log(c);
+//     return c;
+// }
+// console.log(add(5,10));
+
+
+// //if we dont pass any parameter in function then it will return NaN
+
+
+// function greet(){
+//     return 'hello prashant';
+// }
+// console.log(greet());
+
+// function greet(name){
+//     return `hello ${name}`
+// }
+// console.log(greet('prashant'))
+
 
